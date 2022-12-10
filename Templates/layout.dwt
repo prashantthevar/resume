@@ -7,7 +7,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="ikonik - Responsive HTML5 vCard Template">
         <meta name="keywords" content="vcard, html5, portfolio">
-        <meta name="author" content="Pixelwars">
+        <meta name="author" content="Prashant Thevar">
         <meta name="theme-color" content="#1755cf" />
 
         <title>ikonik</title>
@@ -583,7 +583,7 @@
                         <!-- .site-info --> 
                         <div class="site-info">
                             <div class="textwidget">
-                                <p><a href="http://pixelwars.org/">Copyright &copy; 2017 by Pixelwars</a></p>
+                                <p><a href="http://prashantthevar.tech">Copyright &copy; 2017 by Prashant Thevar</a></p>
                             </div>
                         </div>
                         <!-- .site-info --> 
