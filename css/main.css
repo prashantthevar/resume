@@ -2437,6 +2437,11 @@ a.social-link:hover {
   position: relative;
   margin-bottom: 30px;
   background-color: #fff;
+  height: 250px;
+  display: flex;
+  align-items: center;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
 }
 .media-box a {
   position: absolute;
@@ -2447,12 +2452,19 @@ a.social-link:hover {
   opacity: 0;
   filter: alpha(opacity = 0);
 }
+
 .media-box a:nth-of-type(n + 2) {
   display: none;
 }
 .media-box img {
   display: block;
-  width: 100%;
+  width: 40%;
+}
+.media-box .media-img-lg{
+  width: 80% !important;
+}
+.media-box .media-img-md{
+  width: 60% !important;
 }
 .media-box .mask {
   opacity: 0;

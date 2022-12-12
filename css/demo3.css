@@ -12,15 +12,15 @@ body {
 
 /* Link Color */
 a { 
-	color: #e01f34; 
+	color: #a9882c; 
 	}
 
 /* Link Hover Color */
 a:hover {
- 	color: #e01f34
+ 	color: #a9882c
 	}
 .cool-link {
-	background-image: linear-gradient(transparent 88%, #e01f34 12%);
+	background-image: linear-gradient(transparent 88%, #a9882c 12%);
 	}	
 
 
@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5, h6, blockquote {
 
 /* Home Title Bg Color */
 .home-text-container {
-    background: #e01f34;
+    background: #a9882c;
 	}
 
 /* Home Title Font Weight */
@@ -71,10 +71,10 @@ button:hover,
 .home-menu .item-name::after,
 .overlay-2,
 .mfp-bg  {
- 	background-color: #e01f34;
+ 	background-color: #a9882c;
 	}
 *::-webkit-scrollbar-thumb {
-	background-color: #e01f34;
+	background-color: #a9882c;
 	}
 .bypostauthor > article,
 .event h3,
@@ -89,7 +89,7 @@ button,
 .button,
 .more-link,
 .navigation a {
-	border-color: #e01f34
+	border-color: #a9882c
 	}
 .event h3,
 .entry-title a:hover,
@@ -100,10 +100,10 @@ button,
 .more-link,
 .navigation a,
 .filters .current .cool-link {
-	color: #e01f34
+	color: #a9882c
 	}
 #nprogress .spinner-icon {
-  	border-top-color: #e01f34; border-left-color: #e01f34;
+  	border-top-color: #a9882c; border-left-color: #a9882c;
 	}
 
 
